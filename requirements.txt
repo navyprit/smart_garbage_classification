@@ -1,15 +1,13 @@
+python_version = "3.12"
+
 streamlit==1.32.2
-numpy
-pandas
-pillow
-opencv-python
+numpy==2.4.6
+pandas==3.0.3
+pillow==12.2.0
+opencv-python==4.13.0.92
 torch==2.11.0
 torchvision==0.26.0
-matplotlib
-seaborn
-altair
-jieba
-requests
-tqdm
-protobuf
-ultralytics
+matplotlib==3.10.9
+seaborn==0.13.2
+altair==6.1.0
+jieba==0.42.1

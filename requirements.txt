@@ -2,11 +2,11 @@ streamlit==1.40.0
 numpy==2.4.6
 pandas==2.2.3
 pillow==11.0.0
-opencv-python==4.13.0.92
+opencv-python-headless==4.10.0.84
 torch==2.11.0
 torchvision==0.26.0
 matplotlib==3.10.9
 seaborn==0.13.2
 altair==5.5.0
 jieba==0.42.1
-ultralytics==8.3.40
+ultralytics==8.0.200

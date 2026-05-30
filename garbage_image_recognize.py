@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import numpy as np
 
 # 加载模型（你训练好的）
-model = YOLO(r"runs\detect\train7\weights\best.pt")
+model = YOLO(r"E:\smart_garbage_classification\runs\detect\train5\weights\best.pt")
 
 def garbage_image_recognize(standard_image: np.ndarray):
     """
